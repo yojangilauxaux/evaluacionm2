@@ -1,0 +1,42 @@
+body{
+    color: rgb(22, 19, 19);
+    background-color: rgb(117, 117, 114);
+   
+}
+
+p{
+    color: black;
+    text-align: left;
+ 
+}
+
+img{
+  
+    border-radius: 15%;
+
+
+}
+
+ul{
+   
+    color: black;
+}
+
+table {
+    width: 80%; 
+    border-collapse: collapse;
+    margin: 20px auto; 
+    font-size: 18px; 
+  }
+
+  th, td {
+    border: 2px solid #0c0c0c;
+    padding: 15px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #bb4c4c;
+  }
+
+
